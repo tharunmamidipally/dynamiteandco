@@ -658,7 +658,7 @@ input::-ms-input-placeholder {
 }
 /*home section*/
 .home{
-    background: url(../images/homebg.jpg) no-repeat center center;
+    background: url(../images/dc.png) no-repeat center center;
     background-size: cover;
 }
 .home_skew_border{
