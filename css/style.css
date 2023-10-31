@@ -417,6 +417,11 @@ Button
 .btn-lg{
     background: #e74c3c;
     padding: 1.125rem 3rem;
+    position: fixed;
+     bottom: 20px; /* Adjust this value to control how far from the bottom the button appears */
+  right: 20px; /* Adjust this value to control how far from the right edge the button appears */
+  margin: 10px; /* Optional: Add margin to prevent the button from sticking to the edges of the viewport */
+  padding: 10px;
 }
 .btn-md{
     background: #999999;
