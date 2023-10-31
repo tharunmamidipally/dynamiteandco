@@ -705,58 +705,7 @@ input::-ms-input-placeholder {
 
 }
 
-.slick-prev:hover, .slick-prev:focus, .slick-next:hover, .slick-next:focus {
-    color: #fff;
-    outline: none;
-    background: #e74c3c;
-}
-.slick-arrow{
-    background: #ddd;
-    color:#000;
-}
-.main_home_slider i{
-    width:40px;
-    height: 40px;
-    line-height: 40px;
-    color:#fff;
-    background: #e74c3c;
-}
-.main_home_slider i.nextprevleft{
-    width:40px;
-    height: 40px;
-    line-height: 40px;
-    color:#000;
-    background: #716a65;
-    float: left;
-    position: absolute;
-    z-index: 999;
-    top: 400px;
-    font-size:1.5rem;
-    transition: all 0.6s;
-    left:-60px;
-}
-.main_home_slider i.nextprevright{
-    width: 40px;
-    height: 40px;
-    line-height: 40px;
-    color: #000;
-    background: #716a65;
-    float: right;
-    position: absolute;
-    z-index: 999;
-    top: 400px;
-    font-size:1.5rem;
-    transition: all 0.6s;
-    right: -50px;
-}
-.main_home_slider i.nextprevleft:hover{
-    color:#fff;
-    background: #e74c3c;
-}
-.main_home_slider i.nextprevright:hover{
-    color: #fff;
-    background: #e74c3c;
-}
+
 
 /*==================================================================
             Feature section Style
