@@ -1,1 +1,1 @@
-# dynamiteandco A Digital Marketing Agency
+# dynamiteandco A Digital Marketing Firm
